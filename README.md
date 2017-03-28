@@ -14,12 +14,8 @@ Restoku Restomu, Sayangku hanya untukmu
 	> git config --global user.name "[username]"
 	> git config --global user.email "[your@email.com]"
     > git remote set-url origin https://github.com/[username]/taskmanager.git
-    > git remote add upstream https://github.com/blidodi/taskmanager.git
+    > git remote add upstream https://github.com/WawanAndiika/taskmanager.git
     > git remote -v 
-	> touch [username]/README.md
-	> git status
-	> git add [username]
-	> git add [username]/README.md
 	> git commit -am "Add new directory [username]"
 	> git push origin master
  ```
