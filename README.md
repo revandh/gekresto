@@ -23,10 +23,12 @@ Restoku Restomu, Sayangku hanya untukmu
     - create pull request
     - after succeed do this bash
     - first push your directory do this bash
+```bash
     > git add *
 	> git commit -am "Add new directory [username]"
 	> git push origin master
-
+```
+	- How to get new update file from other fork
 ```bash
     > git fetch upstream
     > git merge upstream/master
