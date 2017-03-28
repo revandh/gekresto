@@ -9,7 +9,7 @@ Restoku Restomu, Sayangku hanya untukmu
 
  ```bash
     > git clone https://github.com/[username]/taskmanager.git
-	> cd taskmanager/
+	> cd gekresto/
 	> git init
 	> git config --global user.name "[username]"
 	> git config --global user.email "[your@email.com]"
