@@ -4,17 +4,17 @@ Restoku Restomu, Sayangku hanya untukmu
 
 #Basic Code
 
-1. Fork https://github.com/WawanAndiika/taskmanager.git
+1. Fork https://github.com/WawanAndiika/gekresto.git
 2. Do this bash
 
  ```bash
-    > git clone https://github.com/[username]/taskmanager.git
+    > git clone https://github.com/[username]/gekresto.git
 	> cd gekresto/
 	> git init
 	> git config --global user.name "[username]"
 	> git config --global user.email "[your@email.com]"
-    > git remote set-url origin https://github.com/[username]/taskmanager.git
-    > git remote add upstream https://github.com/WawanAndiika/taskmanager.git
+    > git remote set-url origin https://github.com/[username]/gekresto.git
+    > git remote add upstream https://github.com/WawanAndiika/gekresto.git
     > git remote -v 
  ```
 
